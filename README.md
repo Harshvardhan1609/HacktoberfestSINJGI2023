@@ -1,4 +1,4 @@
-# 🎉 Hacktoberfest 2025 @ [Your Community Name]
+# 🎉 Hacktoberfest 2025
 
 ![Hacktoberfest Banner](https://hacktoberfest.com/_next/image?url=%2Fimages%2Fbrand-assets%2Flogo-dark.svg&w=384&q=75)
 
